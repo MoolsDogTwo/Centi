@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\": {}
+    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi Text Editor\\Centi Text Editor.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi\\Centi Text Editor.csproj",
       "projectName": "centi",
-      "projectPath": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi Text Editor\\Centi Text Editor.csproj",
+      "projectPath": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi\\Centi Text Editor.csproj",
       "packagesPath": "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi Text Editor\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Aleksandar Milovic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aleksandar Milovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,11 +45,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

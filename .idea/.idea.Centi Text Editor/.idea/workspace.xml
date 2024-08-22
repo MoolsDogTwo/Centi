@@ -7,9 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="Fixed readme formatting">
+    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Centi Text Editor.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Centi Text Editor.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Centi Text Editor.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Centi Text Editor.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +50,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MoolsDogTwo/Centi.git&quot;,
-    &quot;accountId&quot;: &quot;084a40e4-78cb-40bd-b15d-a188f45fc354&quot;
+    &quot;accountId&quot;: &quot;eb38392d-46d6-4b14-876b-a15ef1c4ba8e&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -87,19 +99,26 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.toDoOptions",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Aleksandar Milovic\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Aleksandar Milovic\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Aleksandar Milovic\\AppData\\Local\\Symbols\\src"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Project.Centi Text Editor">
     <configuration name="linux-x64" type="DotNetFolderPublish" factoryName="Publish to folder">
-      <riderPublish configuration="Release" delete_existing_files="true" include_all_content_for_self_extract="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="linux-x64" target_folder="$PROJECT_DIR$/bin/Release/net8.0/linux-x64" target_framework="net8.0" uuid_high="2836866178081900269" uuid_low="-5378636130426460991" />
+      <riderPublish configuration="Release" delete_existing_files="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="linux-x64" target_folder="$PROJECT_DIR$/bin/Release/net8.0/linux-x64" target_framework="net8.0" uuid_high="2836866178081900269" uuid_low="-5378636130426460991" />
       <method v="2" />
     </configuration>
     <configuration name="osx-x64" type="DotNetFolderPublish" factoryName="Publish to folder">
-      <riderPublish configuration="Release" delete_existing_files="true" include_all_content_for_self_extract="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="osx-x64" target_folder="$PROJECT_DIR$/bin/Release/net8.0/osx-x64" target_framework="net8.0" uuid_high="2836866178081900269" uuid_low="-5378636130426460991" />
+      <riderPublish configuration="Release" delete_existing_files="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="osx-x64" target_folder="$PROJECT_DIR$/bin/Release/net8.0/osx-x64" target_framework="net8.0" uuid_high="2836866178081900269" uuid_low="-5378636130426460991" />
       <method v="2" />
     </configuration>
     <configuration name="win-x64" type="DotNetFolderPublish" factoryName="Publish to folder">
-      <riderPublish configuration="Release" delete_existing_files="true" include_all_content_for_self_extract="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="win-x64" target_folder="$PROJECT_DIR$/bin/Release/net8.0/win-x64" target_framework="net8.0" uuid_high="2836866178081900269" uuid_low="-5378636130426460991" />
+      <riderPublish configuration="Release" delete_existing_files="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="win-x64" target_folder="$PROJECT_DIR$/bin/Release/net8.0/win-x64" target_framework="net8.0" uuid_high="2836866178081900269" uuid_low="-5378636130426460991" />
       <method v="2" />
     </configuration>
     <configuration name="Centi Text Editor" type="DotNetProject" factoryName=".NET Project">
@@ -178,6 +197,8 @@
       <workItem from="1724201020132" duration="8000" />
       <workItem from="1724298517707" duration="559000" />
       <workItem from="1724299088996" duration="2811000" />
+      <workItem from="1724348652653" duration="15000" />
+      <workItem from="1724348675468" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -252,7 +273,6 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added gitignore" />
     <MESSAGE value="add readme" />
