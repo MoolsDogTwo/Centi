@@ -7,21 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="b">
+    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="Fixed readme formatting">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/centi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/centi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/centi.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/centi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/centi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/centi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/centi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/centi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/centi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/centi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +177,7 @@
       <workItem from="1724200976680" duration="35000" />
       <workItem from="1724201020132" duration="8000" />
       <workItem from="1724298517707" duration="559000" />
-      <workItem from="1724299088996" duration="2116000" />
+      <workItem from="1724299088996" duration="2811000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -231,7 +219,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724299981588</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated readme">
+      <option name="closed" value="true" />
+      <created>1724301239898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724301239898</updated>
+    </task>
+    <task id="LOCAL-00007" summary="a">
+      <option name="closed" value="true" />
+      <created>1724301258068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724301258068</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed readme formatting">
+      <option name="closed" value="true" />
+      <created>1724301283579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724301283579</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,12 +254,14 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="a" />
     <MESSAGE value="Added gitignore" />
     <MESSAGE value="add readme" />
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="b" />
-    <option name="LAST_COMMIT_MESSAGE" value="b" />
+    <MESSAGE value="updated readme" />
+    <MESSAGE value="a" />
+    <MESSAGE value="Fixed readme formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed readme formatting" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
