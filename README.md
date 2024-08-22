@@ -1,7 +1,6 @@
 ## About
 Centi is a console text editor like Nano or Vim. You can open, search, edit and save files.
 
-
 ### How to run
  - Linux/OSX: `./centi [FILE]`
  - Windows: `.\centi.exe [FILE]`
