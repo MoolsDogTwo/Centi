@@ -1,0 +1,14 @@
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\Centi Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\Centi Text Editor.AssemblyInfoInputs.cache
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\Centi Text Editor.AssemblyInfo.cs
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\Centi Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\Centi Text Editor.genruntimeconfig.cache
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\bin\Debug\net8.0\centi.exe
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\bin\Debug\net8.0\centi.deps.json
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\bin\Debug\net8.0\centi.runtimeconfig.json
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\bin\Debug\net8.0\centi.dll
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\bin\Debug\net8.0\centi.pdb
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\centi.dll
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\refint\centi.dll
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\centi.pdb
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\ref\centi.dll
