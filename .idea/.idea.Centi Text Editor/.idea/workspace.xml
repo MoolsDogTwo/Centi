@@ -7,7 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="a" />
+    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="add readme">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +63,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2kJGuizDaBJv50JqLWO0P27xpT8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -151,7 +157,7 @@
       <workItem from="1724200976680" duration="35000" />
       <workItem from="1724201020132" duration="8000" />
       <workItem from="1724298517707" duration="559000" />
-      <workItem from="1724299088996" duration="263000" />
+      <workItem from="1724299088996" duration="825000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -161,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724299240069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added gitignore">
+      <option name="closed" value="true" />
+      <created>1724299367292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724299367292</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add readme">
+      <option name="closed" value="true" />
+      <created>1724299466631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724299466631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +195,9 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="Added gitignore" />
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
