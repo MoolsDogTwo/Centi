@@ -12,3 +12,4 @@ C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\cen
 C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\refint\centi.dll
 C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\centi.pdb
 C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\ref\centi.dll
+C:\Users\Aleksandar Milovic\RiderProjects\Centi Text Editor\obj\Debug\net8.0\Centi Text Editor.sourcelink.json
